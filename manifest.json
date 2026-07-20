@@ -1,0 +1,13 @@
+{
+  "name": "Minhas Finanças",
+  "short_name": "Finanças",
+  "start_url": "./financas.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF2E9",
+  "theme_color": "#17262A",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
